@@ -25,4 +25,4 @@ $ npm start
 ### License
 ----
 
-[Beerware](https://en.wikipedia.org/wiki/Beerware "Beerware") © [Tatas](https://github.com/tatasfachrul "Tatas")
+[Beerware](https://en.wikipedia.org/wiki/Beerware "Beerware") © [Arham Abiyan](https://github.com/arham09 "Arham Abiyan")
